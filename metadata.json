@@ -1,0 +1,8 @@
+{
+  "name": "Statistics Calculator",
+  "description": "Interactive statistics calculator and distribution visualizer for Normal, Student's t, Binomial, Chi-Square, and F distributions, with data lists, 1-variable statistics, and linear regression.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
